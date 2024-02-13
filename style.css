@@ -38,7 +38,8 @@ body {
     flex: 1;
     margin-right: 16px;
     font-size: 18px;
-
+    min-width: 0;
+    width: 100%;
 }
 
 .search button {
